@@ -10,8 +10,8 @@ View the optimal layout for their device's screen size (desktop or mobile).
 
 See a clean, centered card with a background pattern that enhances the design.
 ## Screenshots
-![Preview](./screenshots/Profile-Card-Component_(Desktop).png)
-![Preview](./screenshots/Profile-Card-Component(Mobile).png)
+![Preview](./Profile-Card-Component(Desktop).png)
+![Preview](./Profile-Card-Component(Mobile).png)
 
 
 ## Where to Find Everything
