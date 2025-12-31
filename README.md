@@ -9,6 +9,9 @@ Users should be able to:
 View the optimal layout for their device's screen size (desktop or mobile).
 
 See a clean, centered card with a background pattern that enhances the design.
+## Screenshots
+<img width="3658" height="2286" alt="mosho1 github io_Profile-Card-Component_(Nest Hub Max)" src="https://github.com/user-attachments/assets/54b8a039-949e-4a31-b107-7229dc05a921" />
+
 
 ## Where to Find Everything
 The project includes designs in the /design folder, with both mobile and desktop versions in JPG format. Use your best judgment for styles like font-size, padding, and margin based on these designs.
