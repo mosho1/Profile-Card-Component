@@ -10,7 +10,7 @@ View the optimal layout for their device's screen size (desktop or mobile).
 
 See a clean, centered card with a background pattern that enhances the design.
 ## Screenshots
-<img width="3658" height="2286" alt="mosho1 github io_Profile-Card-Component_(Nest Hub Max)" src="https://github.com/user-attachments/assets/54b8a039-949e-4a31-b107-7229dc05a921" />
+https://github.com/mosho1/Profile-Card-Component/blob/main/images/mosho1.github.io_Profile-Card-Component_(Nest%20Hub%20Max).png
 
 
 ## Where to Find Everything
